@@ -1,0 +1,10 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your_email@gmail.com",
+    "sender_password": "your_app_password",
+    "admin_email": "admin@example.com",
+    "send_to_student": true,
+    "send_to_admin": false,
+    "student_email_domain": "student.example.com"
+}
